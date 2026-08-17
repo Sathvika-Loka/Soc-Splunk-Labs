@@ -1,4 +1,4 @@
-LAB 9 — DETECTING HTTP FLOOD / DoS ACTIVITY
+LAB — DETECTING HTTP FLOOD / DoS ACTIVITY
 
 OBJECTIVE
 
@@ -135,4 +135,4 @@ The lab demonstrates how a SOC analyst can monitor HTTP traffic and use Splunk t
 
 KEY CONCEPT
 
-Lab 9 demonstrates HTTP flood / DoS detection by monitoring web-server activity and analyzing event volume over time using Splunk.
+Lab demonstrates HTTP flood / DoS detection by monitoring web-server activity and analyzing event volume over time using Splunk.
