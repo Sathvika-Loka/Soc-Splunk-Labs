@@ -30,7 +30,7 @@ Identify the IPv4 address.
 
 Example:
 
-192.168.184.134
+192.168.XX.XX
 
 STEP 2 — INSTALL / ENABLE IIS
 
@@ -52,7 +52,7 @@ Kali Linux → Terminal
 
 Command:
 
-curl -I http://192.168.184.134/
+curl -I http://192.168.XX.XX/
 
 A successful response shows that the web server is reachable.
 
@@ -70,7 +70,7 @@ The requests are sent from Kali Linux to the Windows Server.
 
 Example:
 
-curl http://192.168.184.134/
+curl http://192.168.XX.XX/
 
 Repeated HTTP requests create increased web traffic.
 
