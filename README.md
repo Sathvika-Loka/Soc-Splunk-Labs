@@ -1,4 +1,4 @@
-# SOC Incident Detection & Monitoring — Labs 8–10
+# SOC Incident Detection & Monitoring — Labs
 
 ## Project Overview
 
@@ -34,15 +34,15 @@ The labs demonstrate how a SOC analyst can:
 
 | Lab | Topic |
 |---|---|
-| 08 | Monitoring Insecure Ports and Services |
-| 09 | Detecting HTTP Flood / DoS |
-| 10 | Monitoring SSH Brute-Force Attempts |
+| 1 | Monitoring Insecure Ports and Services |
+| 2 | Detecting HTTP Flood / DoS |
+| 3 | Monitoring SSH Brute-Force Attempts |
 
 ## Lab Structure
 
-- [Lab 08 — Monitoring Insecure Ports and Services](Lab-08-Insecure-Ports-Services/README.md)
-- [Lab 09 — Detecting HTTP Flood / DoS](Lab-09-HTTP-Flood-DoS/README.md)
-- [Lab 10 — Monitoring SSH Brute-Force Attempts](Lab-10-SSH-Brute-Force/README.md)
+- [Lab — Monitoring Insecure Ports and Services](Lab-Insecure-Ports-Services/README.md)
+- [Lab — Detecting HTTP Flood / DoS](Lab-HTTP-Flood-DoS/README.md)
+- [Lab — Monitoring SSH Brute-Force Attempts](Lab-SSH-Brute-Force/README.md)
 
 ## Overall Architecture
 
