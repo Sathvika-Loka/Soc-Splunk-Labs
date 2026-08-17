@@ -12,7 +12,7 @@ Command:
 nmap <WINDOWS_SERVER_IP>
 
 Example:
-nmap 192.168.184.134
+nmap 192.168.XX.XX
 
 The scan identifies ports that respond on the target server.
 
