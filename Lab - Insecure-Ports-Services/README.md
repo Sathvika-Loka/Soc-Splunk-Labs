@@ -60,4 +60,4 @@ The lab demonstrates how network reconnaissance can reveal exposed services and 
 
 KEY CONCEPT
 
-Lab 8 demonstrates how a SOC can identify exposed ports and services and investigate related activity using Splunk.
+Lab demonstrates how a SOC can identify exposed ports and services and investigate related activity using Splunk.
