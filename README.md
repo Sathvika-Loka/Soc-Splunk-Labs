@@ -40,8 +40,8 @@ The labs demonstrate how a SOC analyst can:
 
 ## Lab Structure
 
-- [Lab — Monitoring Insecure Ports and Services](Lab-Insecure-Ports-Services/README.md)
-- [Lab — Detecting HTTP Flood / DoS](Lab-HTTP-Flood-DoS/README.md)
+- [Lab — Monitoring Insecure Ports and Services](LAB-Insecure-Ports-Services/README.md)
+- [Lab — Detecting HTTP Flood / DoS](Lab-Http-Flood-DoS/README.md)
 - [Lab — Monitoring SSH Brute-Force Attempts](Lab-SSH-Brute-Force/README.md)
 
 ## Overall Architecture
